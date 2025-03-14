@@ -1,2 +1,10 @@
-# phpMyadmin
-phpMyadmin 경로의 MySQL 데이터베이스를 웹으로 관리하기 위한 모듈
+비박스(bWAPP) A9 phpMyAdmin BBCode Tag XSS
+
+이 도구를 이용하여 허용받지 않은 서비스 대상으로 해킹을 시도하는 행위는 범죄 행위입니다. 해킹을 시도할 때에 발생하는 법적인 책임은 그것을 행한 사용자에게 있다는 것을 명심하시기 바랍니다.      
+            
+A9 - phpMyAdmin BBCode Tag XSS     
+
+해당 취약점을 앞에서 다뤘던 내용으로 아래의 페이지를 참조해 주시기 바랍니다.       
+
+
+
